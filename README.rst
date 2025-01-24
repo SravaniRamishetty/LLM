@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+LLM-101 is glossary which defines LLM terms.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://llm-101.readthedocs.io/en/latest/
